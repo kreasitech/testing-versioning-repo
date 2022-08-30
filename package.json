@@ -1,0 +1,15 @@
+{
+  "name": "testing-versioning-repo",
+  "version": "1.0.0",
+  "description": "v.1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@alfinkreasi.github.com:kreasitech/testing-versioning-repo.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
